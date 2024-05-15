@@ -74,7 +74,7 @@ final String apiKey='ddc4f1e089f508e004ae72d6eb9';
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sahilpotdukhe/echat.git
+   git clone https://github.com/sahilpotdukhe/Movies-Hub.git
 2. **Navigate to the project directory:**
     ```bash
     cd echat
