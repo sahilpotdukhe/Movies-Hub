@@ -13,6 +13,9 @@ Movie Hub is a comprehensive application that leverages APIs to provide users wi
 
 ---
 ### 🎥 Simple demo
+<p align="center">
+  <img src="MoviesHubdemo.gif" alt="EchatDemo" width="350" />
+</p>
 
 ---
 ## ➤ Key Features
